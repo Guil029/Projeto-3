@@ -21,3 +21,7 @@ body {
     font-family: Pacifico, cursive;
 }
 
+.navbar-toggler {
+    background-color: #fff;
+}
+
