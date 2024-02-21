@@ -13,7 +13,8 @@ body {
 
 #cabecalho .nav .nav-link,
 .navbar-brand,
-.navbar-brand:hover {
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
     color: #fff;
 }
 
